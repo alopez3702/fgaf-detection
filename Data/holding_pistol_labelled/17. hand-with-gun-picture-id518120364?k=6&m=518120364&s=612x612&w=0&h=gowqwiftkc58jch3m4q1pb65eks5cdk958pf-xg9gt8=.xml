@@ -1,0 +1,26 @@
+<annotation>
+	<folder>holding pistol</folder>
+	<filename>17. hand-with-gun-picture-id518120364?k=6&amp;m=518120364&amp;s=612x612&amp;w=0&amp;h=gowqwiftkc58jch3m4q1pb65eks5cdk958pf-xg9gt8=.jpg</filename>
+	<path>/home/helio/Pictures/pistol_raw/holding pistol/17. hand-with-gun-picture-id518120364?k=6&amp;m=518120364&amp;s=612x612&amp;w=0&amp;h=gowqwiftkc58jch3m4q1pb65eks5cdk958pf-xg9gt8=.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>408</width>
+		<height>612</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pistol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>143</xmin>
+			<ymin>106</ymin>
+			<xmax>393</xmax>
+			<ymax>580</ymax>
+		</bndbox>
+	</object>
+</annotation>

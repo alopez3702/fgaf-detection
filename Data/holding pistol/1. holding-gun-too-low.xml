@@ -1,0 +1,14 @@
+<annotation verified="yes">
+	<folder>holding pistol</folder>
+	<filename>1. holding-gun-too-low.jpg</filename>
+	<path>/home/helio/Pictures/pistol_raw/holding pistol/1. holding-gun-too-low.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>610</width>
+		<height>493</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>
